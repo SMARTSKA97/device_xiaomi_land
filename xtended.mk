@@ -29,7 +29,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 3S
 PRODUCT_DEVICE := land
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := aosp_land
+PRODUCT_NAME := xtended_land
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
